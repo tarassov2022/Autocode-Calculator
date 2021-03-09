@@ -2,9 +2,6 @@ package com.epam.javabasic.calc.impl;
 
 import com.epam.javabasic.calc.ICalculator;
 
-import java.math.BigDecimal;
-import java.math.RoundingMode;
-
 public class Calculator implements ICalculator {
 
     private int precision;
