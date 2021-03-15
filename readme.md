@@ -1,4 +1,4 @@
-### Calculator
+###Calculator
 
 In this task, you need to write a simple calculator - a console application that will implement 4 operations: 
 addition, subtraction, multiplication and division with input / output of values and results.
