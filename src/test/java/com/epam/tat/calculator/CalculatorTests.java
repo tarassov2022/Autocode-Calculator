@@ -1,6 +1,6 @@
-package com.epam.javabasic.calc;
+package com.epam.tat.calculator;
 
-import com.epam.javabasic.calc.impl.Calculator;
+import com.epam.tat.calculator.impl.Calculator;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

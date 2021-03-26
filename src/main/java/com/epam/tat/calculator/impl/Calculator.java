@@ -1,6 +1,6 @@
-package com.epam.javabasic.calc.impl;
+package com.epam.tat.calculator.impl;
 
-import com.epam.javabasic.calc.ICalculator;
+import com.epam.tat.calculator.ICalculator;
 
 public class Calculator implements ICalculator {
 
