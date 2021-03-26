@@ -6,6 +6,7 @@
 
 ### Short description
 Write a simple calculator - a console application that will implement  some operation.
+
 Please see readme.md  file in skeleton repository for detailed instructions.
 
 ### Detailed description
